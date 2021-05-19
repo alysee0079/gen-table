@@ -1,0 +1,11 @@
+{
+  "name": "gen-img",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ali-oss": "^6.15.2",
+    "axios": "^0.21.1",
+    "canvas": "^2.8.0"
+  }
+}
